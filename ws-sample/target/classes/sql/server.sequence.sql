@@ -1,0 +1,1 @@
+CREATE SEQUENCE server_sequence START 1;
